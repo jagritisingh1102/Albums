@@ -1,0 +1,7 @@
+class Default:
+    DEFAULT_LIMIT = 5
+    DEFAULT_PAGE = 1
+    GET_METHOD = 'GET'
+    POST_METHOD = 'POST'
+    PATCH_METHOD = 'PATCH'
+    DELETE_METHOD = 'DELETE'
